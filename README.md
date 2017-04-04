@@ -14,20 +14,6 @@ this plugin support absolute path and relative to import file or folder
     import 'folder/subfolder/file.js';
 ```
 
-### Options
-
-#### options.separator
-Type: `String`
-Default value: `',  '`
-
-A string value that is used to do something with whatever.
-
-#### options.punctuation
-Type: `String`
-Default value: `'.'`
-
-A string value that is used to do something else with whatever else.
-
 ### Usage Examples For javascript
 
 ```js
