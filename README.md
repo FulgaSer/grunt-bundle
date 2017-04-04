@@ -116,7 +116,6 @@ grunt.initConfig({
     .demo{background:red;font-size:18px}
 ```
 
-### Usage Extra options
 #### Tasks example
 ```js
 grunt.initConfig({
