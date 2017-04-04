@@ -1,0 +1,22 @@
+{
+  "name": "grunt-bundle",
+  "description": "Use import syntax to import file or foolder in javascript",
+  "version": "0.1.6",
+  "homepage": "https://github.com/fulga/bundle",
+  "author": {
+    "name": "Sergiu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fulga/bundle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fulga/bundle/issues"
+  },
+  "devDependencies": {
+    "grunt": "*"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
